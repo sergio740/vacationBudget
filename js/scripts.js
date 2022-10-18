@@ -11,7 +11,7 @@ function getValues() {
        acomodation = document.getElementById("acomodation").value,
        transport = document.getElementById("transport").value,
        food = document.getElementById("food").value;
-       cruzero = document.getElementById("cruzero").value;
+      
 
     return {destiny, budget, acomodation, transport, food}
 }
